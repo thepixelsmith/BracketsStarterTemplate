@@ -1,0 +1,17 @@
+{
+    "name": "starter.templatesetup",
+    "title": "HTML Starter Template",
+    "description": "Automatically create a basic HTML Starter Template",
+    "homepage": "https://www.thepixelsmith.com",
+    "version": "0.0.1",
+    "author": "thepixelsmith",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.30.0"
+    },
+    "keywords": [
+        "HTML",
+        "Emailer",
+        "Table"
+    ]
+}
