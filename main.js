@@ -27,7 +27,7 @@ define(function () {
 
     // Register extension in the File menu
     var EXTENSION_ID = "starter.templatesetup";
-    CommandManager.register("Create Starter Template", EXTENSION_ID, insertstarterTemplate);
+    CommandManager.register("Create HTML5 Template", EXTENSION_ID, insertstarterTemplate);
 
     // Assign a keyboard shortcut
     var theMenu = Menus.getMenu(Menus.AppMenuBar.EDIT_MENU);
